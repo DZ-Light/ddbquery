@@ -5,7 +5,6 @@ import com.azusahikari.ddbquery.repository.DatabaseInfoRepository;
 import com.azusahikari.ddbquery.repository.SQLInfoRepository;
 import com.azusahikari.ddbquery.service.ExecuteSQLService;
 import com.azusahikari.ddbquery.service.TableInfoService;
-import jakarta.servlet.http.HttpSession;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -14,6 +13,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.ResponseBody;
 
+import javax.servlet.http.HttpSession;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
