@@ -1,8 +1,8 @@
 package com.azusa_hikari.ddbqueryserver.domain;
 
+import jakarta.persistence.*;
 import lombok.Data;
 
-import javax.persistence.*;
 
 @Data
 @Entity

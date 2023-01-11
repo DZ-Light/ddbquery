@@ -1,9 +1,8 @@
 package com.azusa_hikari.ddbqueryserver.domain;
 
+import jakarta.persistence.*;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-
-import javax.persistence.*;
 
 
 @Data
