@@ -1,6 +1,6 @@
-package com.azusa_hikari.ddbqueryserver.repository;
+package com.light.ddbquery.repository;
 
-import com.azusa_hikari.ddbqueryserver.domain.DatabaseInfo;
+import com.light.ddbquery.domain.DatabaseInfo;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.query.Param;

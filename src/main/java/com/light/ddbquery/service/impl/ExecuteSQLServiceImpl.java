@@ -1,10 +1,10 @@
-package com.azusa_hikari.ddbqueryserver.service.impl;
+package com.light.ddbquery.service.impl;
 
-import com.azusa_hikari.ddbqueryserver.domain.DatabaseInfo;
-import com.azusa_hikari.ddbqueryserver.repository.DatabaseInfoRepository;
-import com.azusa_hikari.ddbqueryserver.service.ExecuteSQLService;
-import com.azusa_hikari.ddbqueryserver.utils.ConnectionUtil;
-import com.azusa_hikari.ddbqueryserver.utils.SQLUtil;
+import com.light.ddbquery.domain.DatabaseInfo;
+import com.light.ddbquery.repository.DatabaseInfoRepository;
+import com.light.ddbquery.service.ExecuteSQLService;
+import com.light.ddbquery.utils.ConnectionUtil;
+import com.light.ddbquery.utils.SQLUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package com.azusa_hikari.ddbqueryserver.domain;
+package com.light.ddbquery.domain;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

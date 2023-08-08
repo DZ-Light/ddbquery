@@ -1,6 +1,6 @@
-package com.azusa_hikari.ddbqueryserver.repository;
+package com.light.ddbquery.repository;
 
-import com.azusa_hikari.ddbqueryserver.domain.TableInfo;
+import com.light.ddbquery.domain.TableInfo;
 import org.springframework.data.repository.CrudRepository;
 
 public interface TableInfoRepository extends CrudRepository<TableInfo, String> {

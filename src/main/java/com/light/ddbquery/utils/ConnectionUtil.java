@@ -1,6 +1,6 @@
-package com.azusa_hikari.ddbqueryserver.utils;
+package com.light.ddbquery.utils;
 
-import com.azusa_hikari.ddbqueryserver.domain.DatabaseInfo;
+import com.light.ddbquery.domain.DatabaseInfo;
 import lombok.extern.slf4j.Slf4j;
 
 import java.sql.SQLException;

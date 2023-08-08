@@ -1,11 +1,11 @@
-package com.azusa_hikari.ddbqueryserver.controller;
+package com.light.ddbquery.controller;
 
-import com.azusa_hikari.ddbqueryserver.domain.SqlInfo;
-import com.azusa_hikari.ddbqueryserver.repository.DatabaseInfoRepository;
-import com.azusa_hikari.ddbqueryserver.repository.SQLInfoRepository;
-import com.azusa_hikari.ddbqueryserver.service.ExecuteSQLService;
-import com.azusa_hikari.ddbqueryserver.service.TableInfoService;
-import jakarta.servlet.http.HttpSession;
+
+import com.light.ddbquery.domain.SqlInfo;
+import com.light.ddbquery.repository.DatabaseInfoRepository;
+import com.light.ddbquery.repository.SQLInfoRepository;
+import com.light.ddbquery.service.ExecuteSQLService;
+import com.light.ddbquery.service.TableInfoService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

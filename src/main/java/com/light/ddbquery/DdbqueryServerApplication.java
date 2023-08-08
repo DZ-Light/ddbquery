@@ -1,4 +1,4 @@
-package com.azusa_hikari.ddbqueryserver;
+package com.light.ddbquery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

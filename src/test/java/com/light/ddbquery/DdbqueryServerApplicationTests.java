@@ -1,4 +1,4 @@
-package com.azusa_hikari.ddbqueryserver;
+package com.light.ddbquery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

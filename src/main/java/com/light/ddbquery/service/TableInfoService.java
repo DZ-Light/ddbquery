@@ -1,4 +1,4 @@
-package com.azusa_hikari.ddbqueryserver.service;
+package com.light.ddbquery.service;
 
 public interface TableInfoService {
 
